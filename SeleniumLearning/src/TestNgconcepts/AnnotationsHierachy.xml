@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+	
+  <test name="Test">
+    <classes>
+      <class name="TestNgconcepts.AnnotationsHierachy_1"/>
+    </classes>
+ </test>   
+ 
+   <test name="w">
+    <classes>
+      <class name="TestNgconcepts.AnnotationsHierachy_2"/>
+    </classes>
+  </test>
+  
+</suite> 

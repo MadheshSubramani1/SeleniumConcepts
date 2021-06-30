@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test_Suite" verbose="5">
+	<test name="grouping test">
+
+		<groups>
+			<run>
+				
+				<include name="regression"/>
+			</run>
+			
+		</groups>
+		
+		<classes>
+			<class name="TestNgconcepts.GroupingExample"/>
+		</classes>
+	</test>
+</suite> 
+
+
+
+<!--we can give the verbose value untill 10-->

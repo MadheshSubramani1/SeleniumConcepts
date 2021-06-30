@@ -1,0 +1,13 @@
+
+
+Firefox:
+we can verify the firefox options
+
+	http://kb.mozillazine.org/About:config_entries
+
+
+Chrome
+we can verify the chrome options
+
+https://chromedriver.chromium.org/capabilities
+https://src.chromium.org/viewvc/chrome/trunk/src/chrome/common/pref_names.cc?revision-291266
